@@ -19,8 +19,8 @@ mysql -u <username> --host=<hostname> --port=<port> <dbname> -p < ~/path/to/huma
 
 # Task 1
 ## Data Modelling
-![data-modelling-task-1](images/task-1.png)
-![data-modelling-task-1.2](images/task-12.png)
+![data-modelling-task-1](images/task-1.jpeg)
+![data-modelling-task-1.2](images/task-12.jpeg)
 
 ## DAG
 ![dag-task-1](images/dag-sales.png)
